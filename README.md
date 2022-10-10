@@ -7,6 +7,7 @@ Citi Bike is the nation's largest bike share program, with 20,000 bikes and over
 Looking at the breadth of data provided by Citi Bike one can examine if a bike-sharing program in another city is a solid business proposal. Citi Bike data can examine how many people use Citi Bike, when they ride, how far do they go, what is the gender breakdown of bike use and what days of the week are most rides taken on?
 
 ## Results
+
 ![image](2017_1.JPG)  
 
 #### Links
