@@ -8,9 +8,18 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 
 ## Results
 
-![image](2017_1.JPG)  
+![image](Checkout_Times_for_Users.jpg)
+![image](Checkout_Times_by_Genders.jpg)
+![image](Top_Starting_and_Ending_locations.jpg)
+![image](Trips_by_Weekday_per_hour.jpg)
+![image](Trips_by_Weekday_per_hour_by_gender.jpg)
+![image](Gender_description.jpg)
+![image](User_Trips_by_Gender_by_Weekday.jpg)
 
 #### Links
 [link to dashboard](https://public.tableau.com/app/profile/tushar.shivakumar/viz/NYC_CITIBIKE_VISUALIZATIONS/Storyboard?publish=yes)
 
 ## Summary
+The trends found in the visualizations indicate clearly that the NYCS bike shares program could be a huge success in an active population.Des moines seems to be a good prospect for this program.Althought the following suggestions have to be thought about:
+* An analysis of an active population vs the population of the state needs to be graphed to understand what sort of market strategy the company needs for the specific city.
+* An additional vizualization between average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.  
